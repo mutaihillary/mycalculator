@@ -110,7 +110,7 @@ bttn_0 = Button(calc, text = "0")
 bttn_0["command"] = lambda: sum1.num_press(0)
 bttn_0.grid(row = 4, column = 1, pady = 5)
 
-bttn_div = Button(calc, text = chr(247))
+bttn_div = Button(calc, text = "/")
 bttn_div["command"] = lambda: sum1.operation("divide")
 bttn_div.grid(row = 1, column = 3, pady = 5)
 
