@@ -1,0 +1,16 @@
+body {
+  background: azure;
+  color: #888;
+  font: "Lato", "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+header {
+ background-color: azure;
+ background-image: url("images/aic1.png");
+ background-position: center top;
+ background-repeat: no-repeat;
+ background-size: cover;
+ line-height: 1.2;
+ /*--padding: 10vw 2em;--*/
+ text-align: center;
+}
