@@ -12,7 +12,7 @@ Flask-Security==1.6.9
 Flask-Social==1.6.2
 Flask-WTF==0.9.3
 Flask-WhooshAlchemy==0.56
-Jinja2==2.7.3
+Jinja2==2.11.3
 MarkupSafe==0.23
 PAM==0.4.2
 Pillow==2.3.0
