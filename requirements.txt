@@ -100,7 +100,7 @@ system-service==0.1.6
 unity-lens-photos==1.0
 uritemplate.py==0.2.0
 urlgrabber==3.9.1
-urllib3==1.7.1
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==1.11.4
 wakatime==6.0.7
