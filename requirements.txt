@@ -51,7 +51,7 @@ gunicorn==0.14.6
 gyp==0.1
 html5lib==0.999
 httplib2==0.8
-ipython==3.1.0
+ipython==7.16.3
 itsdangerous==0.24
 jsmin==2.0.2
 lockfile==0.8
