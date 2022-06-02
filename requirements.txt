@@ -49,7 +49,7 @@ github3.py==0.7.1
 google-api-python-client==1.1
 gunicorn==0.14.6
 gyp==0.1
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.8
 ipython==3.1.0
 itsdangerous==0.24
